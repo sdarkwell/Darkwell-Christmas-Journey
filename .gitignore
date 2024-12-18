@@ -1,0 +1,17 @@
+# Ignore all files
+*
+
+# Except playlist files
+!.gitignore
+!*.m3u
+!*.m3u8
+!*.pls
+!*.asx
+!*.fpl
+!*.kpl
+!*.itl
+!*.wpl
+!*.xspf
+!*.smil
+!*.cue
+!*.zpl
